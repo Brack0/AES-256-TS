@@ -1,0 +1,24 @@
+{
+    "name": "aes-256-ts",
+    "version": "0.1.0",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Brack0/AES-256-TS.git"
+    },
+    "keywords": [
+        "AES",
+        "AES-256"
+    ],
+    "author": "Brack0",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Brack0/AES-256-TS/issues"
+    },
+    "homepage": "https://github.com/Brack0/AES-256-TS#readme",
+    "devDependencies": {
+        "tslint": "^5.9.1"
+    }
+}

@@ -1,6 +1,6 @@
 # AES-256-TS
 
-> ### *Work in progress* :octocat:
+> ### _Work in progress_ :octocat:
 
 ## State of the art
 
